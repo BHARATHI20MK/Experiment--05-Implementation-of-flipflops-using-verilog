@@ -114,22 +114,32 @@ RegisterNumber: 23010873
  
 Code:
 SR Flip flop:
+
 ![sr code](https://github.com/BHARATHI20MK/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147474125/703b1129-e8c4-49de-b2dc-f0cc1d886463)
+
 D Flip flop:
+
 ![d code](https://github.com/BHARATHI20MK/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147474125/49dd2072-c998-485c-bdbe-b3f7edfcf356)
+
 JK Flip flop:
+
 ![jk code](https://github.com/BHARATHI20MK/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147474125/88482953-4282-4185-a45f-7f6d714abe46)
+
 T Flip flop:
+
 ![t code](https://github.com/BHARATHI20MK/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147474125/7abf8e9c-9e1e-4259-9712-66e823e6dbd3)
 
 ### RTL LOGIC FOR FLIPFLOPS 
 SR Flip flop:
+
 ![sr rtl](https://github.com/BHARATHI20MK/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147474125/d443e22e-4081-486f-a019-598470c206ba)
 
 D Flip flop:
+
 ![d rtl](https://github.com/BHARATHI20MK/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147474125/bb3d9467-1c4a-47f1-bffe-75a160c4df74)
 
 JK Flip flop:
+
 ![jk rtl](https://github.com/BHARATHI20MK/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147474125/26c6e4b3-6095-4fd8-9e25-85ce42549c1a)
 
 T Flip flop:    
