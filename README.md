@@ -113,6 +113,7 @@ Developed by: BHARATHI M K
 RegisterNumber: 23010873
  
 Code:
+
 SR Flip flop:
 
 ![sr code](https://github.com/BHARATHI20MK/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147474125/703b1129-e8c4-49de-b2dc-f0cc1d886463)
