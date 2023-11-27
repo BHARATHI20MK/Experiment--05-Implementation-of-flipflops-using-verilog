@@ -148,13 +148,16 @@ T Flip flop:
 
 ### TIMING DIGRAMS FOR FLIP FLOPS 
 SR Flip flop:
+![sr wf](https://github.com/BHARATHI20MK/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147474125/966be9fa-3243-4fb8-975f-793046ba1351)
 
 D Flip flop:
 ![d wf](https://github.com/BHARATHI20MK/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147474125/11fa2c6f-0688-4a91-b623-6cebe51bec52)
 
 JK Flip flop:
+![jk wf](https://github.com/BHARATHI20MK/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147474125/c8be5376-2266-41ae-8174-4f886e6571f2)
 
 T Flip flop:
 ![t wf](https://github.com/BHARATHI20MK/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147474125/33f29fd8-4c36-4545-a06d-f12e490b6f8a)
 
-### RESULTS 
+### RESULTS :
+The implementation of the flip floos was succesfully completed
